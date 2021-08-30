@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaThread/JavaThread.iml" filepath="$PROJECT_DIR$/JavaThread/JavaThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PersonalLearn.iml" filepath="$PROJECT_DIR$/.idea/PersonalLearn.iml" />
+    </modules>
+  </component>
+</project>
