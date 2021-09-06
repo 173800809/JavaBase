@@ -1,7 +1,6 @@
-package com.learn;
+package com.learn.threadCreate;
 
 import com.learn.utils.WebDownloader;
-import com.sun.org.apache.xpath.internal.operations.Bool;
 
 import java.util.concurrent.*;
 
