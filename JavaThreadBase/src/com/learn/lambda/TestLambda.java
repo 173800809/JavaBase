@@ -8,7 +8,6 @@ import com.learn.utils.ILike;
  * 2. 函数式接口的定义
  *      2.1 任何接口，如果只包含唯一一个抽象方法(补充：接口的方法默认是abstract<抽象>方法)，那么它就是一个函数式接口
  *      2.2 对于函数式接口，我们可以通过lambda表达式来创建该接口的对象
- *
  */
 public class TestLambda {
 

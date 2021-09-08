@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaThread/JavaThread.iml" filepath="$PROJECT_DIR$/JavaThread/JavaThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThreadBase/JavaThreadBase.iml" filepath="$PROJECT_DIR$/JavaThreadBase/JavaThreadBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PersonalLearn.iml" filepath="$PROJECT_DIR$/.idea/PersonalLearn.iml" />
     </modules>
   </component>
