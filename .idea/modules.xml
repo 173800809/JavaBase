@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaThreadBase/JavaThreadBase.iml" filepath="$PROJECT_DIR$/JavaThreadBase/JavaThreadBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaThreadImprove/JavaThreadImprove.iml" filepath="$PROJECT_DIR$/JavaThreadImprove/JavaThreadImprove.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PersonalLearn.iml" filepath="$PROJECT_DIR$/.idea/PersonalLearn.iml" />
     </modules>
   </component>

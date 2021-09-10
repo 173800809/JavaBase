@@ -7,5 +7,7 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-/.idea/
-*.iml
+/.idea/*
+JavaThreadBase/*.iml
+JavaThreadImprove/*.iml
+
