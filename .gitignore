@@ -10,4 +10,5 @@
 /.idea/*
 JavaThreadBase/*.iml
 JavaThreadImprove/*.iml
+out/
 
