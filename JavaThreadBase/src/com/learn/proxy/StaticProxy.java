@@ -10,6 +10,7 @@ import com.learn.utils.You;
  * 好处：
  *      代理对象可以做很多真实对象做不了的事情
  *      真实对象专注做自己的事情
+ *
  */
 public class StaticProxy {
     public static void main(String[] args) {
