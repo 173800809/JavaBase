@@ -6,6 +6,7 @@ package com.learn.producerAndConsumerProblem;
  *      2. 消费者：负责处理数据的模块(可能是方法、对象、线程、进程)
  *      3. 缓冲区：消费者不能直接使用生产者的数据，他们之间有个"缓冲区"
  *      补充：生产者将生产好的数据放入缓冲区，消费者从缓冲区拿出数据
+ *
  */
 public class Monitors {
     public static void main(String[] args) {
